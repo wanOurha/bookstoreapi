@@ -1,7 +1,7 @@
 # bookstoreapi
 
 
-bookstore api deploy on https://bookstoreapisp.herokuapp.com
+bookstore api are deploy on https://bookstoreapisp.herokuapp.com
 
 
 -GET:https://bookstoreapisp.herokuapp.com/books               get all book with recommended first in list 
