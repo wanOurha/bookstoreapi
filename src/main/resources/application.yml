@@ -15,7 +15,7 @@ spring:
 ---
 spring:
   profiles:
-    active: dev
+    active: production
 
 ---
 spring:
@@ -55,9 +55,9 @@ spring:
   profiles: production
 
   datasource:
-    url:  jdbc:postgresql://john.db.elephantsql.com:5432/jepvqmuk
-    username: jepvqmuk
-    password: uYrgYZOOo_ANrBnU8bh2MMxHSrvnzZGt
+    url:  jdbc:postgresql://john.db.elephantsql.com:5432/tjjkwgei 
+    username: tjjkwgei
+    password: fYxYBxAwUO0whJ2jrpaO5jRuNkeH78aN 
   jpa: 
     properties: 
       hibernate:  
